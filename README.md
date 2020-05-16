@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/broleyg/hello-world/_apis/build/status/broleyg.pipelines-java?branchName=master)](https://dev.azure.com/broleyg/hello-world/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
